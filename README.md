@@ -1,2 +1,49 @@
-# FortniteBuilds
-Old Fortnite Builds
+# Fortnite Builds
+
+## Online Testing
+
+| Build | Platform | Status | Download |
+|------------|----------|-------------|----------|
+| OT1 | — | Lost | Unavailable |
+| OT1 | — | Lost | Unavailable |
+| OT3 | — | Lost | Unavailable |
+| OT3.1 | — | Lost | Unavailable |
+| OT3.2 | — | Lost | Unavailable |
+| OT3.3 | — | Lost | Unavailable |
+| OT3.4 | — | Lost | Unavailable |
+| OT3.5 | — | Lost | Unavailable |
+| OT4 | — | Lost | Unavailable |
+| OT4.1 | — | Lost | Unavailable |
+| OT4.2 | — | Lost | Unavailable |
+| OT4.3 | — | Lost | Unavailable |
+| OT4.4 | — | Lost | Unavailable |
+| OT4.5 | — | Lost | Unavailable |
+| OT5 | — | Lost | Unavailable |
+| OT5.1 | — | Lost | Unavailable |
+| OT5.2 | — | Lost | Unavailable |
+| OT5.3 | — | Lost | Unavailable |
+| OT5.4 | — | Lost | Unavailable |
+| OT5.5 | — | Lost | Unavailable |
+| OT6 | — | Lost | Unavailable |
+| OT6.1 | — | Lost | Unavailable |
+| OT6.2 | — | Lost | Unavailable |
+| OT6.5 | Windows | Available | Unavailable |
+| OT6.6 | — | Lost | Unavailable |
+| OT6.7 | — | Lost | Unavailable |
+| OT7 | — | Lost | Unavailable |
+| OT8 | — | Lost | Unavailable |
+| OT8.1 | — | Lost | Unavailable |
+| OT8.2 | — | Lost | Unavailable |
+| OT9 | — | Lost | Unavailable |
+| OT10 | — | Lost | Unavailable |
+| OT10.1 | — | Lost | Unavailable |
+| OT10.?? | PS4 | Available | Unavailable |
+| OT11.?? | Windows | Available | Unavailable |
+| OT11 | PS4 | Available | Unavailable |
+| OT11.0.?? | — | Unavailable | Unavailable |
+| OT11.0.3? | — | Lost | Unavailable |
+| OT11.0.3.1 | — | Lost | Unavailable |
+| OT11.0.5 | — | Lost | Unavailable |
+| OT11.1 | — | Lost | Unavailable |
+| OT11.?? | — | Lost | Unavailable |
+| OT11.?? | — | Lost | Unavailable |
