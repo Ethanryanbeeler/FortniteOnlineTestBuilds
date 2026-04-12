@@ -25,7 +25,7 @@
 | OT6 | — | Lost | Unavailable |
 | OT6.1 | — | Lost | Unavailable |
 | OT6.2 | — | Lost | Unavailable |
-| OT6.5 | Windows | Available | Unavailable |
+| OT6.5 | — | Lost | Unavailable |
 | OT6.6 | — | Lost | Unavailable |
 | OT6.7 | — | Lost | Unavailable |
 | OT7 | — | Lost | Unavailable |
@@ -35,5 +35,5 @@
 | OT9 | — | Lost | Unavailable |
 | OT10 | — | Lost | Unavailable |
 | OT10.1 | — | Lost | Unavailable |
-| OT11 | PS4 Windows | Available | Unavailable |
+| OT11 | — | Lost | Unavailable |
 
