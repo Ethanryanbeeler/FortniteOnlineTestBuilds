@@ -35,13 +35,5 @@
 | OT9 | — | Lost | Unavailable |
 | OT10 | — | Lost | Unavailable |
 | OT10.1 | — | Lost | Unavailable |
-| OT10.?? | PS4 | Available | Unavailable |
-| OT11.?? | Windows | Available | Unavailable |
-| OT11 | PS4 | Available | Unavailable |
-| OT11.0.?? | — | Unavailable | Unavailable |
-| OT11.0.3? | — | Lost | Unavailable |
-| OT11.0.3.1 | — | Lost | Unavailable |
-| OT11.0.5 | — | Lost | Unavailable |
-| OT11.1 | — | Lost | Unavailable |
-| OT11.?? | — | Lost | Unavailable |
-| OT11.?? | — | Lost | Unavailable |
+| OT11 | PS4 Windows | Available | Unavailable |
+
