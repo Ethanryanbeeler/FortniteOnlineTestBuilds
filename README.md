@@ -1,6 +1,4 @@
-# Fortnite Builds
-
-## Online Testing
+# Fortnite Online testing builds
 
 | Build | Platform | Status | Download |
 |------------|----------|-------------|----------|
