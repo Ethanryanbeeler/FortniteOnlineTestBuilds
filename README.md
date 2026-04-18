@@ -42,4 +42,4 @@ If you have any of these builds or know where to find them, please reach out!
 - Discord: Ethanrb11
 - Open an Issue or Pull Request on this repo
 
-- *Last updated: April 17, 2026*
+*Last updated: April 17, 2026*
