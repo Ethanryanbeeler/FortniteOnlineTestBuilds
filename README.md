@@ -37,5 +37,9 @@
 | OT10.1 | — | Lost | Unavailable |
 | OT11 | — | Lost | Unavailable |
 
-Feel Free to contact me about any builds you find
-Discord - Ethanrb11
+## 🤝 Contributing
+If you have any of these builds or know where to find them, please reach out!
+- Discord: Ethanrb11
+- Open an Issue or Pull Request on this repo
+
+- *Last updated: April 17, 2026*
