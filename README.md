@@ -1,7 +1,7 @@
 # Fortnite Online testing builds
 
-| Build | Platform | Status | Download | AES |
-|------------|----------|-------------|----------|---|
+| Build | Platform | Status | Download | Version | AES |
+|------------|----------|-------------|----------|--------|---|
 | OT1 | — | Lost | Unavailable |
 | OT1 | — | Lost | Unavailable |
 | OT3 | — | Lost | Unavailable |
