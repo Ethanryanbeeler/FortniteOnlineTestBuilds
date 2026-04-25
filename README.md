@@ -37,7 +37,7 @@
 | OT10.1 | — | Lost | Unavailable |
 | OT11 | — | Lost | Unavailable |
 
-## 🤝 Contributing
+## Contributing
 If you have any of these builds or know where to find them, please reach out!
 - Discord: Ethanrb11
 - Open an Issue or Pull Request on this repo
