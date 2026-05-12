@@ -1,41 +1,10 @@
-# Fortnite Online testing builds
+# Fortnite Builds
 
-| Build | Platforms | Status | Download | Version | AES |
-|------------|----------|-------------|----------|--------|---|
-| OT1 | — | Lost | Unavailable |
-| OT1 | — | Lost | Unavailable |
-| OT3 | — | Lost | Unavailable |
-| OT3.1 | — | Lost | Unavailable |
-| OT3.2 | — | Lost | Unavailable |
-| OT3.3 | — | Lost | Unavailable |
-| OT3.4 | — | Lost | Unavailable |
-| OT3.5 | — | Lost | Unavailable |
-| OT4 | — | Lost | Unavailable |
-| OT4.1 | — | Lost | Unavailable |
-| OT4.2 | — | Lost | Unavailable |
-| OT4.3 | — | Lost | Unavailable |
-| OT4.4 | — | Lost | Unavailable |
-| OT4.5 | — | Lost | Unavailable |
-| OT5 | — | Lost | Unavailable |
-| OT5.1 | — | Lost | Unavailable |
-| OT5.2 | — | Lost | Unavailable |
-| OT5.3 | — | Lost | Unavailable |
-| OT5.4 | — | Lost | Unavailable |
-| OT5.5 | — | Lost | Unavailable |
-| OT6 | — | Lost | Unavailable |
-| OT6.1 | — | Lost | Unavailable |
-| OT6.2 | — | Lost | Unavailable |
-| OT6.5 | Windows | Found | https://drive.google.com/file/d/18r57qlmaoWrRQayOx_c5fX5E3MY5v6b7/view?usp=sharing | UE 4.12.0.0 | NONE |
-| OT6.6 | — | Lost | Unavailable |
-| OT6.7 | — | Lost | Unavailable |
-| OT7 | — | Lost | Unavailable |
-| OT8 | — | Lost | Unavailable |
-| OT8.1 | — | Lost | Unavailable |
-| OT8.2 | — | Lost | Unavailable |
-| OT9 | — | Lost | Unavailable |
-| OT10 | — | Lost | Unavailable |
-| OT10.1 | — | Lost | Unavailable |
-| OT11 | — | Lost | Unavailable |
+## Navigation
+[![Online Testing Builds](https://img.shields.io/badge/Online_Testing_Builds-blue?style=for-the-badge)](./OT-BUILDS.md)
+[![Fortress Builds](https://img.shields.io/badge/Fortress_Builds-purple?style=for-the-badge)](./FORTRESS.md)
+
+---
 
 ## Contributing
 If you have any of these builds or know where to find them, please reach out!
