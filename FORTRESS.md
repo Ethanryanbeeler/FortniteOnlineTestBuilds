@@ -11,6 +11,8 @@ Fortress was the internal codename for Fortnite during its early development at 
 | Announced | 2011 (VGA Awards) |
 | Released (Early Access) | July 25, 2017 |
 
+> [!WARNING]
+> Do not contact anyone listed in this repo regarding Fortress source code or any unreleased proprietary files. We will not confirm or deny the existence of such materials. Any requests of this nature will be ignored.
 ### Notes
 - The project was internally referred to as "Fortress" before the Fortnite name was finalized.
 - Early builds show a much darker, grittier art style compared to the final release.
